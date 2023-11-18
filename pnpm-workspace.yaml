@@ -3,4 +3,4 @@ packages:
   - '.'
   - 'examples/**/*'
   - 'playgrounds/*'
-  - 'site'
+   'site' //removed to enable site
